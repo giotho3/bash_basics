@@ -22,4 +22,10 @@ read height
 area=$(( width*height))
 
 echo "The total number of pixels is $area"
+<<<<<<< HEAD
 read -p "Press Enter to close"
+=======
+read -p "Press Enter to continue..."
+
+#this is in giosbranch and has a comment
+>>>>>>> giosbranch
